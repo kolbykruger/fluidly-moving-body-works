@@ -7,7 +7,7 @@
         sessionStorage.fonts = true;
       },
       google: {
-        families: ['Montserrat:300,400,400i,500,600,700']
+        families: ['Montserrat:300,400,400i,500,600,700','Encode+Sans:300,400,500,600,700']
       },
       timeout: 2000
     };
